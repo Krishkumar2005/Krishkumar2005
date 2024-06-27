@@ -16,7 +16,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/krish-kumar1-a27362254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krish-kumar1-a27362254/" height="30" width="40" /></a>
-
 <a href="https://instagram.com/https://https://www.instagram.com/nawabzaade_krish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nawabzaade_krih/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://(https://leetcode.com/u/Krish_Kumar1/).39589149/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://(https://leetcode.com/u/Krish_Kumar1/)r.39589149/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://(https://www.geeksforgeeks.org/user/krishsingh2kug/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://(https://www.geeksforgeeks.org/user/krishsingh2kug/)" height="30" width="40" /></a>
