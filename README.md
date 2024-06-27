@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react.js // javascript**
 
-- 📫 How to reach me **(https://www.linkedin.com/in/krish-kumar1/)**
+- 📫 How to reach me **https://www.linkedin.com/in/krish-kumar1/**
 
 - ⚡ Fun fact **I am funny🫣**
 
