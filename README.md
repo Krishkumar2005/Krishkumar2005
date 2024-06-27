@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Sanujkumar?tab=repositories](https://github.com/Sanujkumar?tab=repositories)](https://github.com/Krishkumar2005).
+- 👨‍💻 All of my projects are available at [https://github.com/Krishkumar2005?tab=repositories](https://github.com/Krishkumar2005?tab=repositories)
 
 - 💬 Ask me about **react.js // javascript**
 
-- 📫 How to reach me **[https://www.linkedin.com/in/sanuj-kumar-a27362254/](https://www.linkedin.com/in/krish-kumar1/)**
+- 📫 How to reach me **(https://www.linkedin.com/in/krish-kumar1/)**
 
 - ⚡ Fun fact **I am funny🫣**
 
